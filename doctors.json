@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1751091744143,
+    "name": "varun p",
+    "specialization": "dermatologist",
+    "license": "123456",
+    "experience": "5",
+    "hospital": "varun hospital",
+    "email": "varunp@gmail.com",
+    "phone": "953185252",
+    "address": "Guntur",
+    "password": "$2b$10$JLDEgPnf6a8tIxSb7n7Twu5W8d207ztycIi0yFg7hjy0sfglCIYJ2",
+    "role": "doctor"
+  }
+]
