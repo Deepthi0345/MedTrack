@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1751091860722,
+    "doctorId": 1751091744143,
+    "doctorName": "varun p",
+    "specialty": "dermatologist",
+    "patientId": 1751091619408,
+    "patientName": "Deepthi Pasupuleti",
+    "date": "2025-06-28",
+    "time": "14:00",
+    "reason": "dsgh",
+    "status": "Completed",
+    "precautions": "drink more water",
+    "prescription": " - Morning"
+  }
+]
